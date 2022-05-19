@@ -10,3 +10,5 @@ Terminal
 >npm uninstall lowdb
 >npm i lowdb@1.0.0
 npm uninstall -D <package-name>
+>npm i gh-pages
+>npx gh-pages -d ./dist
